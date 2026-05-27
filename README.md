@@ -1,2 +1,11 @@
 # KeepThemOpenSPT
-I always ask myself, why does the containers closes by itself? I wanna know if someone already looted that! This mods "fixes" that and allow containers to be left open until you close them yourself!
+First of all thanks to DrakiaXYZ with yours SPT-SearchOpenContainers, that logic really helped me!
+Its a simple mod that allows the containers to be left open even after you left the lotting interface.
+
+## Works with fika?
+_atm needs further testing but I would gess so_
+
+## Imcompatibility List:
+DrakiaXYZ SPT-SearchOpenContainers
+Reason - This mod intercepts almost the same tarkov functions so they shouldnt work together
+
