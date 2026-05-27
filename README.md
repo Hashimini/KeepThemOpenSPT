@@ -4,6 +4,7 @@ Its a simple mod that allows the containers to be left open even after you left 
 
 ## Works with fika?
 _atm needs further testing but I would gess so_
+ATT NO IT DONT WORK YET lol
 
 ## Imcompatibility List:
 DrakiaXYZ SPT-SearchOpenContainers
